@@ -1,6 +1,6 @@
 # calculator
 
-A minimal Electron application
+A fully basic windows 10 calculator clone
 
 ## Recommended IDE Setup
 
